@@ -1,1 +1,2 @@
-# Better Shuffle
+# .wav reader and fft  
+
